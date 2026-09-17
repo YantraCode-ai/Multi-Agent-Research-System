@@ -1,0 +1,13 @@
+streamlit
+openai
+arxiv
+tavily-python
+trafilatura
+e2b-code-interpreter
+tiktoken
+pydantic
+python-dotenv
+httpx
+langgraph
+langchain-core
+langchain-openai
