@@ -26,7 +26,7 @@ If the Critic rejects the draft, its feedback is fed straight back to the Resear
 
 The result is a system that can revise its draft instead of immediately shipping its first attempt.
 
-> Built as part of a walkthrough video by **YantraCode** — [watch it here](#)
+> Built as part of a walkthrough video by **YantraCode** — [watch it here](https://youtu.be/scR9HlavFiA)
 
 ---
 
@@ -211,5 +211,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 <div align="center">
 Built and maintained by <a href="https://github.com/yantracode-ai">YantraCode</a>
-Authored By: Akshat Gupta
+<br>Authored By: Akshat Gupta
 </div>
